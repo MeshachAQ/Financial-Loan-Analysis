@@ -1,5 +1,5 @@
 # Financial-Loan-Analysis
-This is a Financial Loan Analysis and report where I showcased my technical skills in SQL to derive insights.
+This is a Financial Loan Analysis and report where I showcased my technical skills in SQL and Tableau to derive insights.
 
 ### In this page,you will find my SQL Queries as well as the dataset. You can also find the project questions for this project. 
 
